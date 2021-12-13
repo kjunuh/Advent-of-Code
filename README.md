@@ -3,7 +3,7 @@
  
 None of the code has been edited at all from the time that I wrote it. As such, most of the solutions will probably not be very short or optimized. I'll be updating this readme periodically with my personal timing/rankings for each day/part.
 
-|Part 1 | ---   | ---   |  ---   | Part 2 | --- | --- | 
+|--- | Part 1   | ---   |  ---   | Part 2 | --- | --- | 
 |--- |      ---  |  ---  | ---   |      ---  |  ---  | ---  |
 |Day |      Time |  Rank | Score |      Time |  Rank | Score|
 | 13 |  00:42:51 |  4816 |     0 |  00:52:07 |  4450 |     0|
