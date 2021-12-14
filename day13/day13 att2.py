@@ -48,7 +48,7 @@ def getFreq(mLst):
 # mStr.insert(1,'c')
 for i in range(40):
     mStr = step(rDct, mStr)
-    print("step",i+1,"len:",len(mStr), time)
+    print("step",i+1,"len:",len(mStr))
 cnts = getFreq(mStr).values()
 print(max(cnts)- min(cnts))
 # print(getFreq(mStr))
