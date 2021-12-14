@@ -6,6 +6,7 @@ None of the code has been edited at all from the time that I wrote it. As such, 
 |--- | Part 1   | ---   |  ---   | Part 2 | --- | --- | 
 |--- |      ---  |  ---  | ---   |      ---  |  ---  | ---  |
 |Day |      Time |  Rank | Score |      Time |  Rank | Score|
+| 14 |  00:48:09 |  7230 |     0 |         - |     - |     -|
 | 13 |  00:42:51 |  4816 |     0 |  00:52:07 |  4450 |     0|
 | 11 |  01:06:33 |  5963 |     0 |  01:11:46 |  5863 |     0|
 | 10 |  01:40:53 | 11556 |     0 |  02:10:39 | 11468 |     0|
