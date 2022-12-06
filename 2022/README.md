@@ -13,7 +13,7 @@ Well that input parsing was annoying, took me awhile to think of the implementat
 ## day 6
 Probably my best chance to leaderboard so far (esp since I was late to the first day), but still too slow by a factor of almost 2. Wasted some time turning my code into a function because for some reason I completely forgot that `break` existed, took me longer than I would like to read/interpret the prompt. Could have also used a normal python list, but for some reason my mind jumped to a deque and that took extra time as well. I'm pretty happy with rank 689 for part 2, but slightly annoyed knowing that I probably could have done better. 
 
-## personal rankings
+## personal stats
 ```
       -------Part 1--------   -------Part 2--------
 Day       Time  Rank  Score       Time  Rank  Score
@@ -23,4 +23,4 @@ Day       Time  Rank  Score       Time  Rank  Score
   3   00:11:50  3684      0   00:16:45  2787      0
   2   00:17:22  7033      0   00:24:30  6278      0
   1   00:12:31  6228      0   00:14:13  5241      0
-  ```
+```
